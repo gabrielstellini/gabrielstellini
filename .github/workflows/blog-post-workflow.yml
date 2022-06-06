@@ -2,6 +2,9 @@ name: Latest Medium blog posts
 on:
   schedule:
     - cron: '0 0 1 * *'
+  workflow_dispatch:
+    branches:
+      - master
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
