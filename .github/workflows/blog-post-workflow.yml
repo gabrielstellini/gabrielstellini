@@ -1,7 +1,7 @@
 name: Latest Medium blog posts
 on:
-  schedule:
-    - cron: '0 0 1 * *'
+#  schedule:
+#    - cron: '0 0 1 * *'
   workflow_dispatch:
     branches:
       - master

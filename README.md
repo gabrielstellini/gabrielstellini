@@ -1,17 +1,23 @@
 
-<h1 align="center">👋 Welcome to my slice of Github 🥧</h1>  
-<h3 align="center">A passionate frontend developer from Malta 🏝️</h3>  
+<h1>👋 Welcome to my slice of Github 🥧</h1>  
+<h3>About</h3>  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<p>
+  This is the home of all the sideprojects I embark on. 🚀 <br> 
+  Contributions are very welcome and all repos are under Apache license 2.0 unless specified otherwise
+</p>
+
+<h3> Blogs posts</h3>
+
+A picture is a thousand words...actually, nevermind. Here's a wall of text instead:
+
+<!-- BLOG-POST-LIST:START -->  
+- [What's Server Side rendering?](https://www.fusonic.net/en/blog/what-is-an-ssr-app)
 - [Fix your Angular errors faster than ever](https://medium.com/all-front/fix-your-angular-errors-faster-than-ever-afbea468a9c4?source=rss-8cb2e2f0c201------2)
 - [Top Angular Interview questions and answers for 2021](https://medium.com/all-front/top-angular-interview-questions-and-answers-for-2021-d5cd42c11510?source=rss-8cb2e2f0c201------2)
 - [How to take your Angular apps offline](https://medium.com/all-front/how-to-take-your-angular-apps-offline-8870bc7544ce?source=rss-8cb2e2f0c201------2)
 - [Leveling up your RxJS skills](https://medium.com/all-front/what-is-rxjs-8a46220d7f6d?source=rss-8cb2e2f0c201------2)
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>
-
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
