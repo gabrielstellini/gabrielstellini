@@ -95,4 +95,4 @@ A picture is a thousand words...actually, nevermind. Here's a wall of text inste
 <br/>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielstellini&show_icons=true&locale=en" alt="gabrielstellini" /></p>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielstellini&show_icons=true&locale=en" alt="gabrielstellini" /></p> -->
